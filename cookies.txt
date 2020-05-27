@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+antiboted.fun	TRUE	/	FALSE	1999999999	CPABUILD_API	b2c98599ccea0f39b41b
+.antiboted.fun	TRUE	/	FALSE	1999999999	__cfduid	d7fe156c07183a5d3ccb47e1ae782abfd1589563494
+antiboted.fun	TRUE	/	FALSE	1999999999	SameSite	Lax
+.cpabuild.com	TRUE	/	FALSE	1999999999	__cfduid	d34b8cb11d9623addc19269a5c41b4da01589563496
+cpabuild.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
